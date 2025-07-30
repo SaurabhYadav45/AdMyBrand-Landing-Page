@@ -44,11 +44,13 @@ This project was created as part of an **assignment** and is optimized for fast 
 ---
 
 ## 📂 Project Structure
+```bash
 ADmyBRAND-Landing-Page/
 │
 ├── public/ # Static assets
 ├── src/ # Source code
 │ ├── components/ # Reusable UI components
+│ ├── sections/ # Reusable UI components
 │ ├── pages/ # Page-level components
 │ ├── assets/ # Images, icons, etc.
 │ ├── App.jsx # Root component
@@ -57,28 +59,28 @@ ADmyBRAND-Landing-Page/
 ├── package.json # Project metadata & dependencies
 ├── vite.config.js # Vite configuration
 └── README.md # Documentation
-
+```
 
 ---
 
 ## 🚀 Getting Started
 
-### **1️⃣ Clone the Repository**
+### 1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 ```
-### **2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 ```bash
 npm install
 ```
-### **3️⃣ Run the Development Server
+### 3️⃣ Run the Development Server
 ```bash
 npm run dev
 ```
 The app will be available at:
 http://localhost:5173
-### **4️⃣ Build for Production
+### 4️⃣ Build for Production
 ```bash
 npm run build
 ```
@@ -98,7 +100,10 @@ Output Directory: dist
 Click Deploy.
 
 ### Screenshots
-<img width="430" alt="Screenshot 2025-07-30 222936" src="https://github.com/user-attachments/assets/fa60c368-f584-43e0-8b85-83b05681c5bd" />   <img width="430" alt="Screenshot 2025-07-30 223028" src="https://github.com/user-attachments/assets/1c19575f-b19a-48ed-8d1e-d01aedabf99e" />
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| <img src="https://github.com/user-attachments/assets/fa60c368-f584-43e0-8b85-83b05681c5bd" width="430"/> | <img src="https://github.com/user-attachments/assets/1c19575f-b19a-48ed-8d1e-d01aedabf99e" width="430"/> |
+
 
 
 
@@ -115,9 +120,9 @@ If you have ideas for improvements:
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
 
 ### Contact
-Author: Saurabh Singh Yadav
-Email:  saurabhkry88@gmail.com
-GitHub: https://github.com/SaurabhYadav45/
-Live Demo: ad-my-brand-landing-page-alpha.vercel.app
+1. Author: Saurabh Singh Yadav
+2. Email:  saurabhkry88@gmail.com
+3. GitHub: https://github.com/SaurabhYadav45/
+4. Live Demo: ad-my-brand-landing-page-alpha.vercel.app
 
 
