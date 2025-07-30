@@ -87,12 +87,10 @@ npm run build
 
 ### Deployment
 This project is deployed on Vercel.
-Live Link: ad-my-brand-landing-page-alpha.vercel.app
-
+Live Link:  [ad-my-brand-landing-page-alpha.vercel.app](https://ad-my-brand-landing-page-alpha.vercel.app/)
 To deploy your own version:
 Push the code to GitHub.
 Import the repository in Vercel.
-
 Set:
 Framework: Vite (React)
 Build Command: npm run build
